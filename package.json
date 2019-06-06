@@ -1,0 +1,28 @@
+{
+  "name": "initial 0-UI|Layout/Mobile",
+  "main": "/src/storysource/bootstrapper.js",
+  "dependencies": {
+    "global": "latest",
+    "react": "latest",
+    "prop-types": "latest",
+    "@storybook/react": "5.1.1",
+    "@storybook/addon-knobs": "5.1.1",
+    "@storybook/theming": "5.1.1",
+    "store2": "latest",
+    "lodash": "latest",
+    "memoizerific": "latest",
+    "react-draggable": "latest",
+    "@storybook/components": "5.1.1",
+    "recompose": "latest",
+    "@storybook/router": "5.1.1",
+    "fuse.js": "latest",
+    "polished": "latest",
+    "copy-to-clipboard": "latest",
+    "@storybook/core-events": "5.1.1",
+    "@storybook/addons": "5.1.1",
+    "react-helmet-async": "latest",
+    "react-dom": "latest",
+    "@storybook/addon-actions": "5.1.1"
+  },
+  "devDependencies": {}
+}
